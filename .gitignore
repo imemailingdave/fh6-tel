@@ -15,3 +15,11 @@ docs/*
 .superpowers
 # Prebuilt headless-server binary artifacts (produced ad hoc / by Docker)
 /fh6-tel-serve-*
+bin/
+logs/
+*.csv
+*.bin
+*.db
+*.db-wal
+*.db-shm
+local_config.json
